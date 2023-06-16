@@ -18,10 +18,10 @@ function Game() {
   
     alert(
       "Player's choice: " +
-        player + 
+        player +  
         "Computer's choice: " +
-        computer +
-        "Result: " +
+        computer + 
+        "Result: " + 
         result
     );
   }
